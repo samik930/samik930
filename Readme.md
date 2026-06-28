@@ -1,23 +1,6 @@
 ## Hi there, I'm Samik 👋
 
-🎓 B.Tech Student
-
-💻 MERN Stack Developer
-
-🧠 DSA Enthusiast
-
 I'm passionate about building full-stack web applications and solving real-world problems through technology. My primary tech stack includes MongoDB, Express.js, React, Node.js, JavaScript, and C++. I enjoy learning new technologies, improving my problem-solving skills, and working on projects that create meaningful impact.
-
-🚀 Currently focused on:
-
-Full-Stack Web Development (MERN)
-
-Data Structures & Algorithms
-
-Backend Development & REST APIs
-
-Open Source and Real-World Projects
-
 
 ## Skills
 
